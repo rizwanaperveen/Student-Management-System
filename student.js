@@ -1,3 +1,4 @@
+#! /usr/bin/env
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.bgBlue("****** Welcome To Student Mnagement System ******"));
